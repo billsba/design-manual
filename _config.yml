@@ -64,15 +64,15 @@ secondarynav:
   category: Overview
 
 # Best practices
-- text: Accessibility best practices
+- text: Logo
   url: best-practices/accessibility-best-practices.html
   internal: true
   category: Best practices
-- text: Design principles
+- text: Typography
   url: best-practices/design-principles.html
   internal: true
   category: Best practices
-- text: Form best practices
+- text: Color Palette
   url: best-practices/form-best-practices.html
   internal: true
   category: Best practices
