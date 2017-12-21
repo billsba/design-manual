@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Best practices
+title: Visual Identity
 category: Best practices
 redirect_from: /guides/guides.html
 published: true
