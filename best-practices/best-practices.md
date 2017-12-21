@@ -2,8 +2,8 @@
 layout: page
 title: Best practices
 category: Best practices
-redirect_from: "/guides/guides.html"
+redirect_from: /guides/guides.html
+published: true
 ---
 
-### These guides present strategies and guiding principles for building effective, accessible, and user-centered products and services. 
-
+### There is text here about the Visual Identify page.
