@@ -12,9 +12,9 @@ highlighter: rouge
 org: SBA
 
 # Title
-name: Design Manual
+name: Design Manual 444
 # We currently don't use this in the templates
-subtitle: A set of principles and standards for the Small Business Administraion's 333 design projects.
+subtitle: A set of principles and standards for the Small Business Administraion's design projects.
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
