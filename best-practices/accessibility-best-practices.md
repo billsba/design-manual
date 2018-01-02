@@ -19,6 +19,7 @@ layout: page
 A test goes **here**. The following four principles, as defined by the W3C<sup>®</sup>, lay the foundation for ensuring that web content is available for all users, including users with disabilities and users on non-desktop devices. These guidelines also enable future compatibility in the event that future devices are radically different from those in use today.
 {: class="lead-in"}
 
+![Screen Shot 2018-01-02 at 12.23.46 PM.png](/uploads/Screen%20Shot%202018-01-02%20at%2012.23.46%20PM.png)
 Note: While this document can function as a checklist – and at times, it will – that isn’t the primary purpose. The goal is to foster understanding of why these guidelines are important.
 {: class="lead-in"}
 
