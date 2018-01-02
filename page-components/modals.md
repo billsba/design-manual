@@ -1,6 +1,6 @@
 ---
+title: Modal windows
 layout: page
-title:  Modal windows
 category: Page components
 redirect_from: "/ui-toolkit/modals.html"
 ---

@@ -1,6 +1,6 @@
 ---
+title: Forms
 layout: page
-title:  Forms
 category: Page components
 redirect_from: "/ui-toolkit/form-fields.html"
 ---

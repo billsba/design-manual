@@ -1,8 +1,7 @@
 ---
+title: Color
 layout: page
-title:  Color
 category: Data visualization
-published: true
 ---
 
 - [Color schemes](#color-schemes)

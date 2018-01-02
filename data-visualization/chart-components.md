@@ -1,8 +1,7 @@
 ---
+title: Chart components
 layout: page
-title:  Chart components
 category: Data visualization
-published: true
 ---
 
 - [Font](#font)

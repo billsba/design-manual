@@ -1,8 +1,7 @@
 ---
+title: Accessibility
 layout: page
-title:  Accessibility
 category: Data visualization
-published: true
 ---
 
 - [Alt tags](#alt-tags)

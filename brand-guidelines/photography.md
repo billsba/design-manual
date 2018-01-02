@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Photography
+layout: page
 category: Brand guidelines
-published: true
 redirect_from: "/identity/photography.html"
 ---
 

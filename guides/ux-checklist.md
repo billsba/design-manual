@@ -1,6 +1,6 @@
 ---
+title: UX checklist
 layout: page
-title:  UX checklist
 category: Guides
 ---
 

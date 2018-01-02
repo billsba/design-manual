@@ -1,6 +1,6 @@
 ---
+title: Tables
 layout: page
-title:  Tables
 category: Page components
 ---
 

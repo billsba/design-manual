@@ -1,8 +1,7 @@
 ---
+title: Audience
 layout: page
-title:  Audience
 category: Data visualization
-published: true
 ---
 
 - [General users](#general-users)

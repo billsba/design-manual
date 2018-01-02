@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Video
+layout: page
 category: Brand guidelines
 redirect_from: "/identity/video.html"
 ---

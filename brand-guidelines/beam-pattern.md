@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Beam pattern
+layout: page
 category: Brand guidelines
-published: true
 redirect_from: "/identity/beams.html"
 ---
 

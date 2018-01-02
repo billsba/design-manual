@@ -1,6 +1,6 @@
 ---
+title: Modal windows
 layout: page
-title:  Modal windows
 category: UI toolkit
 ---
 

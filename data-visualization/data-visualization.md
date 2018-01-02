@@ -1,8 +1,7 @@
 ---
+title: Data visualization
 layout: page
-title:  Data visualization
 category: Data visualization
-published: true
 ---
 
 ### Whether you're using Excel, Tableau, D3.js, or any other program, follow these guidelines to create effective and consistent data visualizations.

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Featured content modules
+layout: page
 category: Page components
-published: true
 redirect_from: "/ui-toolkit/featured-content-module.html"
 ---
 

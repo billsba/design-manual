@@ -1,6 +1,6 @@
 ---
+title: Markdown
 layout: page
-title:  Markdown
 category: UI toolkit
 ---
 

@@ -1,8 +1,7 @@
 ---
+title: Emphasis!
 layout: page
-title:  Emphasis!
 category: Data visualization
-published: true
 ---
 
 - [Visual hierarchy](#visual-hierarchy)

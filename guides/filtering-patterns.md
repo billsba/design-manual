@@ -1,6 +1,6 @@
 ---
+title: Filtering patterns
 layout: page
-title:  Filtering patterns
 category: Guides
 ---
 

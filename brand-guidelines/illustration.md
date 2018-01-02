@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Illustrations
+layout: page
 category: Brand guidelines
-published: true
 redirect_from: "/identity/illustration.html"
 ---
 

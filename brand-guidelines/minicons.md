@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Minicons
+layout: page
 category: Brand guidelines
 redirect_from: "/identity/minicons.html"
 ---

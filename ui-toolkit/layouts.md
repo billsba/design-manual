@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Layouts
+layout: page
 category: UI toolkit
-published: true
 ---
 
 - [Landing](#landing)

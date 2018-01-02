@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Logo
+layout: page
 category: Brand guidelines
-published: true
 redirect_from: "/identity/logo.html"
 ---
 

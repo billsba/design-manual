@@ -1,49 +1,43 @@
-# Redirects
+---
+title: Design Manual
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 plugins:
-  - jekyll-redirect-from
-
-# Base configuration
-permalink: /:title
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "src", "node_modules"]
+- jekyll-redirect-from
+permalink: "/:title"
+exclude:
+- ".rvmrc"
+- ".rbenv-version"
+- README.md
+- Rakefile
+- changelog.md
+- src
+- node_modules
 markdown: kramdown
 highlighter: rouge
-
-# Organization
 org: SBA
-
-# Title
 name: Design Manual 444
-# We currently don't use this in the templates
-subtitle: A set of principles and standards for the Small Business Administraion's design projects.
-
-# When using this template with a project page set the baseurl to '/project-name'
-# For user/organization pages set this to an empty string
-# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
-# See http://jekyllrb.com/docs/github-pages/ for more info
-#baseurl: ''
-baseurl: '/design-manual'
-
-# Author/Organization info to be displayed in the templates
+subtitle: A set of principles and standards for the Small Business Administraion's
+  design projects.
+baseurl: "/design-manual"
 author:
   name: Small Business Administration
   url: https://cfpb.github.io/
-
 repository:
   name: Design Manual
   url: https://github.com/cfpb/design-manual
-
-# Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: 'static/img/logo_210.png'
-logoalt: 'Small Business Administration'
-
-# Kramdown settings
+logourl: static/img/logo_210.png
+logoalt: Small Business Administration
 kramdown:
   auto_ids: true
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   parse_block_html: true
-
-# Main Navigation
-# List links that should appear in the main navigation (header) here
 mainnav:
 - text: Overview
   url: index.html
@@ -54,16 +48,11 @@ mainnav:
 - text: Templates
   url: brand-guidelines/brand-guidelines.html
   internal: true
-
-# Secondary Navigation
-# List links that should appear in the secondary navigation (sidebar) here
 secondarynav:
 - text: Home
   url: index.html
   internal: true
   category: Overview
-
-# Best practices
 - text: Logo
   url: best-practices/accessibility-best-practices.html
   internal: true
@@ -76,9 +65,6 @@ secondarynav:
   url: best-practices/form-best-practices.html
   internal: true
   category: Best practices
-
-
-# Brand guidelines
 - text: Beam pattern
   url: brand-guidelines/beam-pattern.html
   internal: true
@@ -115,9 +101,6 @@ secondarynav:
   url: brand-guidelines/video.html
   internal: true
   category: Brand guidelines
-
-
-# Global elements
 - text: Browse page
   url: global-elements/browse-page.html
   internal: true
@@ -158,9 +141,6 @@ secondarynav:
   url: global-elements/text-introductions.html
   internal: true
   category: Global elements
-
-
-# Page components
 - text: 25/75 image and text
   url: page-components/25-75.html
   internal: true
@@ -229,9 +209,6 @@ secondarynav:
   url: page-components/wells.html
   internal: true
   category: Page components
-
-
-# Data visualization
 - text: Accessibility
   url: data-visualization/accessibility.html
   internal: true
@@ -260,9 +237,6 @@ secondarynav:
   url: data-visualization/emphasis.html
   internal: true
   category: Data visualization
-
-# Footer Navigation
-# List links that should appear in the footer navigation (footer) here
 footernav:
 - text: Home
   url: index.html
@@ -270,7 +244,5 @@ footernav:
 - text: DOCter Repo
   url: https://github.com/cfpb/DOCter
   internal: false
-
-# Prose.io Configuration
 prose:
-  siteurl: 'https://billsba.github.io/design-manual/'
+  siteurl: https://billsba.github.io/design-manual/

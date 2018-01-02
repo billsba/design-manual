@@ -1,6 +1,6 @@
 ---
+title: Form best practices
 layout: page
-title:  Form best practices
 category: Best practices
 redirect_from: "/guides/effective-forms.html"
 ---

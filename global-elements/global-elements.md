@@ -1,6 +1,6 @@
 ---
+title: Global elements
 layout: page
-title:  Global elements
 category: Global elements
 ---
 

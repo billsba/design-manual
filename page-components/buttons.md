@@ -1,6 +1,6 @@
 ---
+title: Buttons
 layout: page
-title:  Buttons
 category: Page components
 redirect_from: "/ui-toolkit/buttons.html"
 ---

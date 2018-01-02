@@ -1,6 +1,6 @@
 ---
+title: Tooltips
 layout: page
-title:  Tooltips
 category: UI toolkit
 ---
 

@@ -1,6 +1,6 @@
 ---
+title: Color
 layout: page
-title:  Color
 category: Brand guidelines
 redirect_from: "/identity/color-principles.html"
 ---

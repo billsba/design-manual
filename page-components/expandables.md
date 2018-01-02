@@ -1,6 +1,6 @@
 ---
+title: Expandables
 layout: page
-title:  Expandables
 category: Page components
 redirect_from: "/ui-toolkit/expandables.html"
 ---

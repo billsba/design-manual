@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Best practices
+layout: page
 category: Best practices
 ---
 

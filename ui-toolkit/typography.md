@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Typography
+layout: page
 category: UI toolkit
 ---
 

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Item introduction
+layout: page
 category: Global elements
-published: true
 ---
 
 - [Use case](#use-case)

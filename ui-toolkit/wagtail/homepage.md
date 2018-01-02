@@ -1,8 +1,7 @@
 ---
-layout: page
 title: CF.gov homepage
+layout: page
 category: UI toolkit
-published: true
 ---
 
 - [Featured content](#featured_content)

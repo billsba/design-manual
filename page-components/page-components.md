@@ -1,6 +1,6 @@
 ---
+title: Page components
 layout: page
-title:  Page components
 category: Page components
 ---
 

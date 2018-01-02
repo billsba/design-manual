@@ -1,12 +1,9 @@
 ---
-layout: page
 title: Typography
+layout: page
 category: Brand guidelines
-published: true
 redirect_from: "/identity/typography.html"
 ---
-
-
 
 - [Typefaces](#typefaces)
 - [Web hierarchy](#web-hierarchy)

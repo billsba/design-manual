@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Isocons
+layout: page
 category: Brand guidelines
-published: true
 redirect_from: "/identity/isocons.html"
 ---
 

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Heroes
+layout: page
 category: Global elements
-published: true
 redirect_from: "/ui-toolkit/heroes.html"
 ---
 

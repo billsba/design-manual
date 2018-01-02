@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Filterable list control panel
+layout: page
 category: Page components
-published: true
 ---
 
 - [Use case](#use-case)

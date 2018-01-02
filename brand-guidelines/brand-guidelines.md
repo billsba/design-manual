@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Brand guidelines
+layout: page
 category: Brand guidelines
 redirect_from: "/identity/identity.html"
 ---

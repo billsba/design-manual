@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Logo suite
+layout: page
 category: Downloads
-published: true
 ---
+

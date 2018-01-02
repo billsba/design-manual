@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Half-width link blob
+layout: page
 category: Page components
-published: true
 ---
 
 - [Use case](#use-case)

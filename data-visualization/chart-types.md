@@ -1,8 +1,7 @@
 ---
+title: Chart types
 layout: page
-title:  Chart types
 category: Data visualization
-published: true
 ---
 
 - [Bar or column charts](#bar-or-column-charts)

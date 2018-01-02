@@ -1,6 +1,6 @@
 ---
+title: Design principles
 layout: page
-title:  Design principles
 category: Best practices
 redirect_from: "/guides/design-principles.html"
 ---

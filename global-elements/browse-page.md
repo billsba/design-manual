@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Browse page
+layout: page
 category: Global elements
-published: true
 ---
 
 - [Use case](#use-case)

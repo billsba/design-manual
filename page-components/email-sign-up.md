@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Email sign-up
+layout: page
 category: Page components
-published: true
 ---
+
 - [Use case](#use-case)
 - [Behavior](#behavior)
 - [Content guidelines](#content-guidelines)

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Full width text
+layout: page
 category: Page components
-published: true
 ---
 
 - [Use case](#use-case)

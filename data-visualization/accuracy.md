@@ -1,8 +1,7 @@
 ---
+title: Accuracy
 layout: page
-title:  Accuracy
 category: Data visualization
-published: true
 ---
 
 - [Notes section](#notes-section)

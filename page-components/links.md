@@ -1,11 +1,9 @@
 ---
-layout: page
 title: Links
+layout: page
 category: Page components
-published: true
 redirect_from: "/ui-toolkit/links.html"
 ---
-
 
 - [Style](#style)
 - [States](#states)

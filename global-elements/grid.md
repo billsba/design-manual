@@ -1,13 +1,9 @@
 ---
-layout: page
 title: Grid
+layout: page
 category: Global elements
-published: true
 redirect_from: "/ui-toolkit/grid-and-layout.html"
 ---
-
-
-
 
 - [Style](#style)
 {: class="toc"}

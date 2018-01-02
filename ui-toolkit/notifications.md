@@ -1,6 +1,6 @@
 ---
+title: Alerts, validations, and error messaging
 layout: page
-title:  Alerts, validations, and error messaging
 category: UI toolkit
 ---
 
