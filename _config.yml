@@ -270,3 +270,7 @@ footernav:
 - text: DOCter Repo
   url: https://github.com/cfpb/DOCter
   internal: false
+
+# Prose.io Configuration
+prose:
+  siteurl: 'https://billsba.github.io/design-manual/'
